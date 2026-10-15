@@ -15,7 +15,7 @@
 | **Model Parameters** | Random Forest / XGBoost Classifier (`n_estimators=100`, `max_depth=8`, `min_samples_split=4`, `class_weight='balanced'`, `random_state=42`) |
 | **MLOps Evaluation Metrics** | ROC-AUC: 1.00, F1-Score: 1.00, Accuracy: 1.00, Recall: 1.00 |
 | **DevSecOps Security Controls** | Bandit SAST scanner, SHA-256 cryptographic model weight signing, Input boundary validation, Non-root Docker container |
-| **GitHub Repository** | [https://github.com/jairajcj/FraudShield-Banking-Fraud-DevSecMLOps](https://github.com/jairajcj/FraudShield-Banking-Fraud-DevSecMLOps) |
+| **GitHub Repository** | [https://github.com/jairajcj/Internal_Project_1_FraudShield](https://github.com/jairajcj/Internal_Project_1_FraudShield) |
 
 ---
 
